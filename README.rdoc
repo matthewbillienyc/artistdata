@@ -1,0 +1,20 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+My favorite artists and their rankings on Spotify - Matthew Billie
+
+This is a project using the spotify API and javascript to render charts of my favorite artists and their popularity.
+
+The nav bar at the top of the page will have some basic info and a dropdown menu with 5 of my favorite artists.
+
+The page will by default render a bar graph comparing the total streams of these artists. 
+
+If a single artist is selected, it will show their top 10 tracks and the amount of streams via a bar graph.
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
